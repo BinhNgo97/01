@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamoZeroTouch1", "DynamoZeroTouch1\DynamoZeroTouch1.csproj", "{7D6AFBD2-3F3A-495B-BD1B-9E76F6E18360}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D6AFBD2-3F3A-495B-BD1B-9E76F6E18360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D6AFBD2-3F3A-495B-BD1B-9E76F6E18360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D6AFBD2-3F3A-495B-BD1B-9E76F6E18360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D6AFBD2-3F3A-495B-BD1B-9E76F6E18360}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5CB08E1-6D9A-4E22-A174-229E7FC7FB7A}
+	EndGlobalSection
+EndGlobal
